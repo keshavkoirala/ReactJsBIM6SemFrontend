@@ -1,7 +1,15 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import Navigation from './Navigation'
+import data from './data.json'
 
 function HomePage() {
+
+   const [blogData,setBlogData]=useState()
+
+   useEffect(()=>{
+     console.log(data)
+     setBlogData(data)
+   },[])
     
   return (
    <>

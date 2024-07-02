@@ -1,0 +1,262 @@
+[
+    {
+        "blog_id": 1,
+        "blog_title": "The Future of AI",
+        "blog_content": "AI is transforming industries and society...",
+        "categoryid": 101,
+        "category_name": "Technology",
+        "user_id": 1,
+        "author_name": "John Doe",
+        "created_date": "2024-06-25",
+        "like": 150,
+        "dislike": 10,
+        "comments": [
+            {
+                "user_id": 2,
+                "commented_by": "Jane Smith",
+                "like": 20,
+                "dislike": 1
+            },
+            {
+                "user_id": 3,
+                "commented_by": "Bob Johnson",
+                "like": 15,
+                "dislike": 2
+            }
+        ]
+    },
+    {
+        "blog_id": 2,
+        "blog_title": "Top 10 Travel Destinations for 2024",
+        "blog_content": "Explore the most exciting places to visit this year...",
+        "categoryid": 102,
+        "category_name": "Travel",
+        "user_id": 2,
+        "author_name": "Emily White",
+        "created_date": "2024-06-20",
+        "like": 200,
+        "dislike": 5,
+        "comments": [
+            {
+                "user_id": 4,
+                "commented_by": "Tom Harris",
+                "like": 30,
+                "dislike": 0
+            },
+            {
+                "user_id": 5,
+                "commented_by": "Alice Brown",
+                "like": 25,
+                "dislike": 1
+            }
+        ]
+    },
+    {
+        "blog_id": 3,
+        "blog_title": "Healthy Eating Tips",
+        "blog_content": "Maintaining a balanced diet is crucial for overall health...",
+        "categoryid": 103,
+        "category_name": "Health",
+        "user_id": 3,
+        "author_name": "Michael Green",
+        "created_date": "2024-06-15",
+        "like": 180,
+        "dislike": 8,
+        "comments": [
+            {
+                "user_id": 6,
+                "commented_by": "Sarah Wilson",
+                "like": 40,
+                "dislike": 0
+            },
+            {
+                "user_id": 7,
+                "commented_by": "David Clark",
+                "like": 20,
+                "dislike": 3
+            }
+        ]
+    },
+    {
+        "blog_id": 4,
+        "blog_title": "Investing in Stock Market",
+        "blog_content": "Stock market investments can be lucrative with the right strategy...",
+        "categoryid": 104,
+        "category_name": "Finance",
+        "user_id": 4,
+        "author_name": "Laura Black",
+        "created_date": "2024-06-10",
+        "like": 220,
+        "dislike": 12,
+        "comments": [
+            {
+                "user_id": 8,
+                "commented_by": "Mark Lewis",
+                "like": 35,
+                "dislike": 2
+            },
+            {
+                "user_id": 9,
+                "commented_by": "Linda Scott",
+                "like": 30,
+                "dislike": 1
+            }
+        ]
+    },
+    {
+        "blog_id": 5,
+        "blog_title": "Latest Trends in Fashion",
+        "blog_content": "Discover the hottest trends in fashion for this season...",
+        "categoryid": 105,
+        "category_name": "Fashion",
+        "user_id": 5,
+        "author_name": "Anna Brown",
+        "created_date": "2024-06-05",
+        "like": 250,
+        "dislike": 7,
+        "comments": [
+            {
+                "user_id": 10,
+                "commented_by": "James Davis",
+                "like": 50,
+                "dislike": 0
+            },
+            {
+                "user_id": 11,
+                "commented_by": "Emma Thomas",
+                "like": 45,
+                "dislike": 2
+            }
+        ]
+    },
+    {
+        "blog_id": 6,
+        "blog_title": "The Importance of Mental Health",
+        "blog_content": "Mental health is just as important as physical health...",
+        "categoryid": 103,
+        "category_name": "Health",
+        "user_id": 6,
+        "author_name": "Chris Martin",
+        "created_date": "2024-05-30",
+        "like": 190,
+        "dislike": 5,
+        "comments": [
+            {
+                "user_id": 12,
+                "commented_by": "Nina Walker",
+                "like": 25,
+                "dislike": 0
+            },
+            {
+                "user_id": 13,
+                "commented_by": "Oscar Hall",
+                "like": 20,
+                "dislike": 1
+            }
+        ]
+    },
+    {
+        "blog_id": 7,
+        "blog_title": "Advancements in Renewable Energy",
+        "blog_content": "Renewable energy sources are becoming more efficient and cost-effective...",
+        "categoryid": 101,
+        "category_name": "Technology",
+        "user_id": 7,
+        "author_name": "Sophia Lee",
+        "created_date": "2024-05-25",
+        "like": 230,
+        "dislike": 9,
+        "comments": [
+            {
+                "user_id": 14,
+                "commented_by": "Henry Young",
+                "like": 30,
+                "dislike": 2
+            },
+            {
+                "user_id": 15,
+                "commented_by": "Grace King",
+                "like": 25,
+                "dislike": 0
+            }
+        ]
+    },
+    {
+        "blog_id": 8,
+        "blog_title": "Exploring the World of Literature",
+        "blog_content": "Literature offers a window into different cultures and times...",
+        "categoryid": 106,
+        "category_name": "Literature",
+        "user_id": 8,
+        "author_name": "David Wright",
+        "created_date": "2024-05-20",
+        "like": 170,
+        "dislike": 6,
+        "comments": [
+            {
+                "user_id": 16,
+                "commented_by": "Olivia Hill",
+                "like": 20,
+                "dislike": 1
+            },
+            {
+                "user_id": 17,
+                "commented_by": "Daniel Adams",
+                "like": 18,
+                "dislike": 2
+            }
+        ]
+    },
+    {
+        "blog_id": 9,
+        "blog_title": "Mastering the Art of Cooking",
+        "blog_content": "Cooking is both an art and a science...",
+        "categoryid": 107,
+        "category_name": "Cooking",
+        "user_id": 9,
+        "author_name": "Patricia Turner",
+        "created_date": "2024-05-15",
+        "like": 200,
+        "dislike": 4,
+        "comments": [
+            {
+                "user_id": 18,
+                "commented_by": "Ethan Moore",
+                "like": 22,
+                "dislike": 0
+            },
+            {
+                "user_id": 19,
+                "commented_by": "Isabella Martinez",
+                "like": 20,
+                "dislike": 1
+            }
+        ]
+    },
+    {
+        "blog_id": 10,
+        "blog_title": "The Benefits of Yoga",
+        "blog_content": "Yoga offers numerous physical and mental benefits...",
+        "categoryid": 103,
+        "category_name": "Health",
+        "user_id": 10,
+        "author_name": "Robert Anderson",
+        "created_date": "2024-05-10",
+        "like": 210,
+        "dislike": 3,
+        "comments": [
+            {
+                "user_id": 20,
+                "commented_by": "Mia Perez",
+                "like": 28,
+                "dislike": 1
+            },
+            {
+                "user_id": 21,
+                "commented_by": "Liam Sanchez",
+                "like": 25,
+                "dislike": 0
+            }
+        ]
+    }
+]
